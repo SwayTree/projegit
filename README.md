@@ -1,0 +1,4 @@
+projegit
+========
+
+Obiekty pro
