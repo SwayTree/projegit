@@ -2,7 +2,7 @@ ojegit
 ========
 Klasy: 
 ========
-    Kierowca (PozostalyCzas pracy, liste paczek ktore przewozi i trasa)
+    Kierowca (PozostalyCzas pracy, liste paczek ktore przewozi i trasa, pole oznaczajace na ktorej stacji jest kierowca)
 ========
     Przesylka (skad, dokad, id, data)
 ========
