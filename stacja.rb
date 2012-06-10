@@ -7,8 +7,7 @@ class Stacja
     
     # Dodanie przesylki do kolekcji przesylki    
     def dodajPrzesylke(przesylka)
-        @przesylki << przesylka 
-        # Lub @przesylki.push(przesylka) nie wiem, ktory sposob fajniejszy, pasowaloby sie trzymac jednego
+        @przesylki.push(przesylka) 
     end
 
     # Wydanie przesylki kierowcy
