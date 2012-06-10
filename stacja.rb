@@ -10,5 +10,15 @@ class Stacja
         @przesylki << przesylka 
         # Lub @przesylki.push(przesylka) nie wiem, ktory sposob fajniejszy, pasowaloby sie trzymac jednego
     end
+
+    # Wydanie przesylki kierowcy
+    # Mysle ze parametr kierowca sie przyda zeby "obliczyc", ktora paczka bedzie dla niego najlepsza, tak mi sie wydaje
+    def wydajPrzesylkeKierowcy(kierowca)
+        # wybor przesylki
+        # przesylka = ...wybieramy jakas
+        # usuniecie tej przesylki z @przesylki
+        kierowca.push(przesylka) 
+    end
+
 end
 
