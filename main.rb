@@ -1,0 +1,1 @@
+# Wczytanie pliku
