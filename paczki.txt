@@ -1,0 +1,5 @@
+1 krakow warszawa 0100
+2 krakow szczecin 0200
+3 szczecin warszawa 0115
+4 krakow poznan 0001
+5 krakow szczecin 0400
